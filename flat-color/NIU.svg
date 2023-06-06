@@ -1,0 +1,28 @@
+<svg width="54" height="48" viewBox="0 0 54 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1_34448" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="6" width="48" height="36">
+<path d="M3.56934 15.1356C4.16681 10.4125 8.0415 7.00193 12.7861 6.60887C16.6412 6.28949 21.6196 6 27 6C32.3804 6 37.3588 6.28949 41.2139 6.60887C45.9585 7.00193 49.8332 10.4125 50.4307 15.1356C50.752 17.6759 51 20.704 51 24C51 27.296 50.752 30.3241 50.4307 32.8644C49.8332 37.5875 45.9585 40.9981 41.2139 41.3911C37.3588 41.7105 32.3804 42 27 42C21.6196 42 16.6412 41.7105 12.7861 41.3911C8.0415 40.9981 4.16681 37.5875 3.56934 32.8644C3.248 30.3241 3 27.296 3 24C3 20.704 3.248 17.6759 3.56934 15.1356Z" fill="#00D0BF"/>
+</mask>
+<g mask="url(#mask0_1_34448)">
+<rect x="3" y="6" width="48" height="36" fill="#FCD95E"/>
+<mask id="mask1_1_34448" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="3" y="6" width="24" height="18">
+<rect x="3" y="6" width="24" height="18" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask1_1_34448)">
+<rect x="3" y="6" width="24" height="18" fill="#2E50A6"/>
+<path d="M3 6L27 24L3 6ZM27 6L3 24L27 6Z" fill="black"/>
+<path d="M27 6L3 24M3 6L27 24L3 6Z" stroke="white" stroke-width="2.4"/>
+<path d="M3 6L27 24L3 6ZM27 6L3 24L27 6Z" fill="black"/>
+<path d="M27 6L3 24M3 6L27 24L3 6Z" stroke="#EE5757" stroke-width="1.6"/>
+<path d="M15 6V27V6ZM3 15H31H3Z" fill="black"/>
+<path d="M3 15H31M15 6V27V6Z" stroke="white" stroke-width="4"/>
+<path d="M15 6V27V6ZM3 15H31H3Z" fill="black"/>
+<path d="M3 15H31M15 6V27V6Z" stroke="#EE5757" stroke-width="2.4"/>
+<path d="M14.9999 18C16.6568 18 18 16.6569 18 15C18 13.3431 16.6568 12 14.9999 12C13.3431 12 11.9999 13.3431 11.9999 15C11.9999 16.6569 13.3431 18 14.9999 18Z" fill="#2E50A6"/>
+<path d="M15 12L16.7633 17.4271L12.1468 14.073H17.8531L13.2366 17.4271" fill="#FCD95E"/>
+<path d="M9.1468 14L9.79664 16L8.09534 14.7639H10.1983L8.49696 16" fill="#FCD95E"/>
+<path d="M21.0515 14L21.7013 16L20 14.7639H22.1029L20.4016 16" fill="#FCD95E"/>
+<path d="M15.0515 9L15.7013 11L14 9.76393H16.1029L14.4016 11" fill="#FCD95E"/>
+<path d="M15.0515 19L15.7013 21L14 19.7639H16.1029L14.4016 21" fill="#FCD95E"/>
+</g>
+</g>
+</svg>
